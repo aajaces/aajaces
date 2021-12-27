@@ -1,4 +1,4 @@
 - 👋  Hi, I’m @aajaces
 - 👀  I’m interested in VR, AR, chess engines, front-end development, NNUE, ...
-- 🌱  I’m currently learning React / Webpack.
+- 🌱  I’m currently learning React.
 - 📫  How to reach me: aajaces@gmail.com
