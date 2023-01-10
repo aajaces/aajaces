@@ -1,4 +1,4 @@
 - 👋  Hi, I’m @aajaces
 - 👀  I’m interested in VR, AR, chess engines, front-end development, NNUE, ...
-- 🌱  I’m currently learning React.
+- 🌱  I’m currently learning SvelteKit.
 - 📫  How to reach me: a a j a c e s a t g m a i l d o t c o m
