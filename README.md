@@ -1,4 +1,4 @@
 - 👋  Hi, I’m @aajaces
 - 👀  I’m interested in VR, AR, chess engines, front-end development, NNUE, ...
-- 🌱  I’m currently learning SvelteKit, Rust, & Bevy.
+- 🌱  I’m currently learning SvelteKit, Bun, Rust, & Bevy.
 - 📫  How to reach me: a a j a c e s a t g m a i l d o t c o m
