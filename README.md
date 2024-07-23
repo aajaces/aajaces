@@ -1,4 +1,4 @@
 - 👋  Hi, I’m @aajaces
-- 👀  I’m interested in VR, AR, chess engines, front-end development, NNUE, ...
+- 👀  I’m interested in robotics, AR, chess engines, front-end development, ...
 - 🌱  I’m currently learning SvelteKit, Zig, Rust, & Bevy.
-- 📫  How to reach me: insta
+- 📫  How to reach me: instagram (same user tag)
